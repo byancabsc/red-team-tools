@@ -1,6 +1,5 @@
 # red-team-tools
 Um toolkit abrangente de ferramentas e scripts para operações de Red Team.
-# Red Team Toolkit
 
 Este repositório serve como um toolkit abrangente de ferramentas, scripts e recursos essenciais para operações de Red Team, desde reconhecimento e exploração até pós-exploração e engenharia social.
 
@@ -10,9 +9,11 @@ Este repositório serve como um toolkit abrangente de ferramentas, scripts e rec
 * [Vulnerability Scanning](#vulnerability-scanning)
 * [Exploitation](#exploitation)
 * [Post-Exploitation](#post-exploitation)
+* [Web Reconnaissance & Fuzzing](#web-reconnaissance--fuzzing)
 * [Social Engineering](#social-engineering)
 * [Utilities](#utilities)
 * [Custom Scripts](#custom-scripts)
+* [Instalação e Configuração Rápida (Script de Setup)](#instalação-e-configuração-rápida-script-de-setup)
 
 ---
 
@@ -151,6 +152,12 @@ Identifica websites. Sua função é adivinhar ou identificar tecnologias web us
 ### Gophish
 Um toolkit de código aberto para campanhas de phishing.
 * **Repositório Oficial:** [https://github.com/gophish/gophish](https://github.com/gophish/gophish)
+
+---
+
+## Custom Scripts
+
+Scripts personalizados desenvolvidos ou coletados.
 
 ### SMB Check Dir Perms Script
 Um script personalizado para verificar permissões de diretórios SMB.
